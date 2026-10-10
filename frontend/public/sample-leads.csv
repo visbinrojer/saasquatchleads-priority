@@ -1,0 +1,43 @@
+company,domain,industry,city,state,country,employees,revenue,ownership
+Mesa Air Mechanical,mesaair.example,HVAC,Mesa,AZ,US,28,3200000,independent
+Hill Country Plumbing,hillcountryplumb.example,Plumbing,Austin,TX,US,22,2100000,independent
+Peachtree Electric,peachtreeelectric.example,Electrical,Atlanta,GA,US,40,5400000,independent
+Gulf Breeze HVAC,gulfbreezehvac.example,HVAC,Tampa,FL,US,18,1800000,independent
+Carolina Comfort Co,carolinacomfort.example,HVAC,Charlotte,NC,US,35,4600000,independent
+Desert Pipe Works,desertpipe.example,Plumbing,Tucson,AZ,US,15,1400000,independent
+Lone Star Electric,lonestarelectric.example,Electrical,Dallas,TX,US,52,6800000,independent
+Savannah Mechanical,savannahmech.example,Mechanical,Savannah,GA,US,30,3900000,independent
+Phoenix Refrigeration,phxrefrig.example,Refrigeration,Phoenix,AZ,US,24,2800000,independent
+Oak City HVAC,oakcityhvac.example,HVAC,Raleigh,NC,US,20,,independent
+Alamo Plumbing,alamoplumb.example,Plumbing,San Antonio,TX,US,12,1100000,founder-owned
+Flagstaff Electric,flagstaffe.example,Electrical,Flagstaff,AZ,US,9,900000,independent
+Brooklyn Boiler Co,brooklynboiler.example,HVAC,Brooklyn,NY,US,33,4100000,independent
+BrightSmile Dental,brightsmile.example,Dental,Houston,TX,US,20,3000000,independent
+Mister Sparky Local,mistersparky.example,Electrical,Orlando,FL,US,60,7000000,franchise
+Apex HVAC Partners,apexhvac.example,HVAC,Miami,FL,US,48,6000000,pe-backed
+National Comfort PLC,nationalcomfort.example,HVAC,Atlanta,GA,US,400,80000000,public
+Mesa Air Mechanical (dup),mesaair.example,HVAC,Mesa,AZ,US,28,3200000,independent
+No-Name Plumbing,,Plumbing,Dallas,TX,US,20,2000000,independent
+Tiny Ducts,tinyducts.example,HVAC,Austin,TX,US,3,400000,independent
+MegaGrid Electric,megagrid.example,Electrical,Houston,TX,US,500,40000000,independent
+Nearband Climate,nearband.example,HVAC,Dallas,TX,US,44,9200000,independent
+Lakeside Landscaping,lakeside.example,Landscaping,Orlando,FL,US,25,2200000,independent
+Toronto Comfort,torontocomfort.example,HVAC,Toronto,ON,Canada,30,3000000,independent
+Unknown Vertical Co,mysteryco.example,,Austin,TX,US,20,2000000,independent
+Low Voltage Atlanta,lowvoltatl.example,Low Voltage,Atlanta,GA,US,16,1600000,independent
+Rooter Local,rooterlocal.example,Plumbing,Phoenix,AZ,US,25,2500000,franchise
+Jax Air Systems,jaxair.example,HVAC,Jacksonville,FL,US,27,3300000,unknown
+Piedmont Electric,piedmontelectric.example,Electrical,Greensboro,NC,US,,4000000,independent
+Triangle Plumbing,triangleplumb.example,Plumbing,Durham,NC,US,70,7500000,independent
+Sunbelt Air,sunbeltair.example,HVAC,Scottsdale,AZ,US,80,6100000,independent
+Hill Country Plumbing West,hillcountryplumb.example,Plumbing,Austin,TX,US,22,2100000,independent
+Metro Waste Hauling,metrowaste.example,Waste Hauling,Houston,TX,US,40,5000000,independent
+Summit HVAC Holdings,summithvac.example,HVAC,Orlando,FL,US,55,7200000,private equity
+Comfort Experts,comfortexperts.example,Mechanical,Dallas,TX,US,38,5100000,independent
+Bad Domain Electric,not a domain,Electrical,Austin,TX,US,20,2500000,independent
+Boundary HVAC,boundaryhvac.example,HVAC,Fort Worth,TX,US,10,1000000,independent
+Rooftop Kings,rooftopkings.example,Roofing,Houston,TX,US,30,3500000,independent
+Palmetto HVAC,palmettohvac.example,HVAC,Charleston,SC,US,26,2900000,independent
+Spark Franchise Co,sparkfranchise.example,Electrical,Miami,FL,US,33,4100000,franchise
+Tampa Bay Plumbing,tampabayplumb.example,Plumbing,Tampa,FL,US,15,1500000,owner-operated
+Coastal Electric,coastalelectric.example,Electrical,Savannah,GA,US,30,,independent

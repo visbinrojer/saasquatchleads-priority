@@ -1,0 +1,13 @@
+{
+  "name": "priority",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently -n api,web -c blue,green \"npm run api\" \"npm run web\"",
+    "api": ".venv\\Scripts\\python.exe -m uvicorn app.main:app --reload --reload-dir backend --app-dir backend --port 8000",
+    "web": "npm run dev --prefix frontend",
+    "test": ".venv\\Scripts\\python.exe -m pytest -q"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.0"
+  }
+}
